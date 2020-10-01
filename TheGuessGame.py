@@ -139,6 +139,6 @@ def main():
     root.mainloop()
 
 
-
-# start Guess My Number
-main()
+if __name__ == "__main__":
+    # start Guess My Number
+    main()
